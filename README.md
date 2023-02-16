@@ -58,7 +58,7 @@
 
 * Having this section can also be helpful to help link to important tools and also show some simple stats about your project like the number of forks, contributors, open issues, etc...
 
-* Check out the badges hosted by [shields.io](https://shields.io). They have a lot of badges to help you get started.
+* Check out the badges hosted by [shields.io](https://shields.io){:target="_blank"}. They have a lot of badges to help you get started.
 
 # How to contribute to the project
 
@@ -66,7 +66,7 @@
 
 * It is important to make sure that the licence you choose for an open source projects is correct to avoid future conflicts. Adding contribution guidelines will play a big role.
 
-* Some of the guidelines include the [Contributor Covenant](https://www.contributor-covenant.org) and the [Contributing guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+* Some of the guidelines include the [Contributor Covenant](https://www.contributor-covenant.org){:target="_blank"} and the [Contributing guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors){:target="_blank"}
 
 # Include tests
 
